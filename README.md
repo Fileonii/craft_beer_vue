@@ -1,7 +1,11 @@
 # craft beer app with vue.js
 
-This is my first app, which is using vue.js and vuetify.
-Data for this app is provided by https://punkapi.com/documentation/v2
+This is my first example app, which is using vue.js and vuetify.
+Data for this app is provided by
+
+```
+https://punkapi.com/documentation/v2
+```
 
 ## Project setup
 
